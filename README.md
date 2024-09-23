@@ -1,1 +1,2 @@
-# MusicStore_SQL_P1
+# Music Store Playlist SQL Project
+This project involves the analysis of a music store's playlist database using PostgreSQL. It includes solving basic to moderate level queries to extract meaningful insights about the playlist, such as most popular songs, frequently played artists, and customer preferences. The project demonstrates my ability to write and optimize SQL queries, manage a relational database, and interpret data for practical business applications.
